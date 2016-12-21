@@ -1,6 +1,6 @@
 {
   "name": "babar",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "CLI bar charts",
   "main": "lib/babar.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stephan83/babar.git"
+    "url": "https://github.com/cubelets/babar.git"
   },
   "keywords": [
     "cli",
@@ -22,7 +22,7 @@
   "author": "Stephan Florquin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stephan83/babar/issues"
+    "url": "https://github.com/cubelets/babar/issues"
   },
   "dependencies": {
     "colors": "~0.6.2"
