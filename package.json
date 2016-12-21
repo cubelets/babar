@@ -1,5 +1,5 @@
 {
-  "name": "babar",
+  "name": "@cubelets/babar",
   "version": "0.0.4",
   "description": "CLI bar charts",
   "main": "lib/babar.js",
